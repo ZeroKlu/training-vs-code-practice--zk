@@ -26,3 +26,7 @@ One Python test is meant to fail. The course uses it to show how the Testing vie
 
 - The `.vscode` folder holds the course's recommended extensions. It is part of the project, so it stays in source control.
 - Build output and Python caches are ignored by `.gitignore`.
+
+## Source Control
+
+This is a test for source control
