@@ -1,7 +1,7 @@
 """A small calculator for the VS Code course."""
 
 def add(a, b):
-    return b + a
+    return a + b
 
 
 def total(numbers):
